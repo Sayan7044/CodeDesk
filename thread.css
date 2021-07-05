@@ -1,0 +1,21 @@
+#boxed {
+    border: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
+    background-color: gainsboro;
+  }
+  .head{
+      font-weight: 600;
+  }
+
+  h5:hover {
+      text-decoration: underline;
+
+  }
+  
+ 
+    
+    
